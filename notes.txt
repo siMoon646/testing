@@ -28,5 +28,3 @@ The compiler needs to know declarations -- that things exist.
 Linker 'ld' wants:
 1) only one main
 2) job: "connect things"
-
-this was changed
